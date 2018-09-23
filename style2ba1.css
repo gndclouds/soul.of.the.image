@@ -288,7 +288,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 }
 
 .ca3-scroll-down-arrow {
-  background-image: url(_assets/arrow.svg);
+  background-image: url(arrow.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
